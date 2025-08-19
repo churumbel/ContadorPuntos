@@ -28,7 +28,7 @@ Práctica cuando no tienes un anotador y boli a mano.
 ---
 
 ## 🎬 Captura de pantalla de la app
-### Pantalla de inicio.
+![Contador](https://github.com/churumbel/ContadorPuntos/blob/main/screenshot-contador.jpg)
 
 
 ---
